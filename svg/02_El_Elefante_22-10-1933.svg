@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.94786756"
-     inkscape:cx="439.93488"
-     inkscape:cy="726.8948"
+     inkscape:zoom="0.67024358"
+     inkscape:cx="790.7573"
+     inkscape:cy="725.10952"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -234,4 +234,7 @@
            id="tspan1955"
            style="fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            x="202.8396"
-           y="192.87311">2</tspan></text></g></g></svg>
+           y="192.87311">2</tspan></text><path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:5.3;stroke-dasharray:0.80000001,0.40000001,0.2,0.40000001;stroke-opacity:1;stroke-dashoffset:0"
+         d="M 88.721342,152.92625 H 121.27862"
+         id="path339" /></g></g></svg>
