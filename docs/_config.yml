@@ -22,7 +22,7 @@ title: Arca de Noé de Tono
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Um resgate das esculturas de papel do artista espanho Antonio Lara de Gavilán.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/arca-noe-tono" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  oanimadorcaipira
 
